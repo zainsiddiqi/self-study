@@ -14,10 +14,10 @@ https://cell-free.blogspot.com/p/source-codes.html
 https://dblp.org/search?q=cell-free%20MIMO
 https://dblp.org/search?q=cell-free%20communications
 
-Github codes refs:
+Important Github codes refs:
 
-https://github.com/emilbjornson
-https://github.com/hienquocngo
-https://github.com/DinhNguyenCherry
+https://github.com/emilbjornson;
+https://github.com/hienquocngo;
+https://github.com/DinhNguyenCherry;
 https://cell-free.blogspot.com/p/source-codes.html
 https://github.com/yashcao/Cell-Free-MIMO-Refs
