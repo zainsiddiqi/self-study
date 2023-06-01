@@ -46,3 +46,7 @@ https://github.com/topics/optimization-algorithms?l=matlab&o=asc&s=stars
 
 Hybrid beamforming 
 https://github.com/TianLin0509?tab=repositories
+
+Holographic MIMO Communication
+https://github.com/gaozhen16?tab=overview&from=2023-03-01&to=2023-03-31
+
