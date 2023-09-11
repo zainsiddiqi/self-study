@@ -55,3 +55,10 @@ https://github.com/ken0225/RIS-Codes-Collection
 
 Machine Learning-based Wireless Communications
 https://github.com/ML4Comm-Netw/Paper-with-Code-of-Wireless-communication-Based-on-DL 
+
+Near Field Comm
+https://github.com/zhiguo-ding?tab=repositories
+https://github.com/zhiguo-ding/resolution_near_field 
+https://personalpages.manchester.ac.uk/staff/zhiguo.ding/index
+
+
