@@ -61,4 +61,14 @@ https://github.com/zhiguo-ding?tab=repositories
 https://github.com/zhiguo-ding/resolution_near_field 
 https://personalpages.manchester.ac.uk/staff/zhiguo.ding/index
 
+Resource Allocation Massive MIMO beamforming
+https://github.com/le-liang
+https://github.com/xiaodangshan?tab=repositories
+
+
+Machine learning basic implementation
+https://github.com/madandahal?tab=repositories
+
+Index Modulation Technique
+https://github.com/xiaodangshan?tab=repositories
 
