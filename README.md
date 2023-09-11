@@ -65,6 +65,9 @@ Resource Allocation Massive MIMO beamforming
 https://github.com/le-liang
 https://github.com/xiaodangshan?tab=repositories
 
+Very Important Link for Postdoc and Codes
+https://personalpages.manchester.ac.uk/staff/zhiguo.ding/index
+
 
 Machine learning basic implementation
 https://github.com/madandahal?tab=repositories
