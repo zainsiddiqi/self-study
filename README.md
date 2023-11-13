@@ -79,3 +79,9 @@ https://github.com/madandahal?tab=repositories
 Index Modulation Technique
 https://github.com/xiaodangshan?tab=repositories
 
+STAR-RIS-aided Communications
+https://github.com/STAR-Yuanwei-Liu
+https://github.com/STAR-Yuanwei-Liu/Optimization-for-wireless-communications
+
+
+
