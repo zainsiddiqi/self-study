@@ -79,6 +79,12 @@ https://github.com/madandahal?tab=repositories
 Index Modulation Technique
 https://github.com/xiaodangshan?tab=repositories
 
+Must Visit lonks
+https://github.com/AhmadSirojuddin/MIMO-Capacity-Maximization-With-a-Practical-Model-for-Reconfigurable-Intelligent-Surfaces?tab=readme-ov-file
+https://github.com/kaizhongkaizhong
+
+
+
 STAR-RIS-aided Communications
 https://github.com/STAR-Yuanwei-Liu
 https://github.com/STAR-Yuanwei-Liu/Optimization-for-wireless-communications
